@@ -2,7 +2,36 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops-Lab/BasicSyntaxConditionalStatementsAndLoops-Lab.iml" filepath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops-Lab/BasicSyntaxConditionalStatementsAndLoops-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01.2 BasicSyntaxConditionalStatementsAndLoops-Lab/01.2 BasicSyntaxConditionalStatementsAndLoops-Lab.iml" filepath="$PROJECT_DIR$/01.2 BasicSyntaxConditionalStatementsAndLoops-Lab/01.2 BasicSyntaxConditionalStatementsAndLoops-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01.3 BasicSyntaxConditionalStatementsAndLoops-Exercise/01.3 BasicSyntaxConditionalStatementsAndLoops-Exercise.iml" filepath="$PROJECT_DIR$/01.3 BasicSyntaxConditionalStatementsAndLoops-Exercise/01.3 BasicSyntaxConditionalStatementsAndLoops-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01.4 BasicSyntaxConditionalStatementsAndLoops-MoreExercise/01.4 BasicSyntaxConditionalStatementsAndLoops-MoreExercise.iml" filepath="$PROJECT_DIR$/01.4 BasicSyntaxConditionalStatementsAndLoops-MoreExercise/01.4 BasicSyntaxConditionalStatementsAndLoops-MoreExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.2 DataTypesAndVariables-Lab/02.2 DataTypesAndVariables-Lab.iml" filepath="$PROJECT_DIR$/02.2 DataTypesAndVariables-Lab/02.2 DataTypesAndVariables-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.3 DataTypesAndVariables-Exercise/02.3 DataTypesAndVariables-Exercise.iml" filepath="$PROJECT_DIR$/02.3 DataTypesAndVariables-Exercise/02.3 DataTypesAndVariables-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.4 DataTypesAndVariables-MoreExercise/02.4 DataTypesAndVariables-MoreExercise.iml" filepath="$PROJECT_DIR$/02.4 DataTypesAndVariables-MoreExercise/02.4 DataTypesAndVariables-MoreExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.2 Arrays-Lab/03.2 Arrays-Lab.iml" filepath="$PROJECT_DIR$/03.2 Arrays-Lab/03.2 Arrays-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.3 Arrays-Exercise/03.3 Arrays-Exercise.iml" filepath="$PROJECT_DIR$/03.3 Arrays-Exercise/03.3 Arrays-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.4 Arrays-MoreExercise/03.4 Arrays-MoreExercise.iml" filepath="$PROJECT_DIR$/03.4 Arrays-MoreExercise/03.4 Arrays-MoreExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.2 Methods-Lab/04.2 Methods-Lab.iml" filepath="$PROJECT_DIR$/04.2 Methods-Lab/04.2 Methods-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.3 Methods-Exercise/04.3 Methods-Exercise.iml" filepath="$PROJECT_DIR$/04.3 Methods-Exercise/04.3 Methods-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.4 Methods-MoreExercise/04.4 Methods-MoreExercise.iml" filepath="$PROJECT_DIR$/04.4 Methods-MoreExercise/04.4 Methods-MoreExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.2 List-Lab/05.2 List-Lab.iml" filepath="$PROJECT_DIR$/05.2 List-Lab/05.2 List-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.3 List-Exercise/05.3 List-Exercise.iml" filepath="$PROJECT_DIR$/05.3 List-Exercise/05.3 List-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.4 List-MoreExercise/05.4 List-MoreExercise.iml" filepath="$PROJECT_DIR$/05.4 List-MoreExercise/05.4 List-MoreExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.2 MidExam-Preparation/06.2 MidExam-Preparation.iml" filepath="$PROJECT_DIR$/06.2 MidExam-Preparation/06.2 MidExam-Preparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.3 MidExam-Exam/06.3 MidExam-Exam.iml" filepath="$PROJECT_DIR$/06.3 MidExam-Exam/06.3 MidExam-Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.2 ObjectsAndClasses-Lab/07.2 ObjectsAndClasses-Lab.iml" filepath="$PROJECT_DIR$/07.2 ObjectsAndClasses-Lab/07.2 ObjectsAndClasses-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.3 ObjectsAndClasses-Exercise/07.3 ObjectsAndClasses-Exercise.iml" filepath="$PROJECT_DIR$/07.3 ObjectsAndClasses-Exercise/07.3 ObjectsAndClasses-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.2 AssociativeArrays-Lab/08.2 AssociativeArrays-Lab.iml" filepath="$PROJECT_DIR$/08.2 AssociativeArrays-Lab/08.2 AssociativeArrays-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.3 AssociativeArrays-Exercise/08.3 AssociativeArrays-Exercise.iml" filepath="$PROJECT_DIR$/08.3 AssociativeArrays-Exercise/08.3 AssociativeArrays-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.4 AssociativeArrays-MoreExercise/08.4 AssociativeArrays-MoreExercise.iml" filepath="$PROJECT_DIR$/08.4 AssociativeArrays-MoreExercise/08.4 AssociativeArrays-MoreExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09.2 TextProcessing-Lab/09.2 TextProcessing-Lab.iml" filepath="$PROJECT_DIR$/09.2 TextProcessing-Lab/09.2 TextProcessing-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09.3 TextProcessing-Exercise/09.3 TextProcessing-Exercise.iml" filepath="$PROJECT_DIR$/09.3 TextProcessing-Exercise/09.3 TextProcessing-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09.4 TextProcessing-MoreExercise/09.4 TextProcessing-MoreExercise.iml" filepath="$PROJECT_DIR$/09.4 TextProcessing-MoreExercise/09.4 TextProcessing-MoreExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.2 RegularExpressions-Lab/10.2 RegularExpressions-Lab.iml" filepath="$PROJECT_DIR$/10.2 RegularExpressions-Lab/10.2 RegularExpressions-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.3 RegularExpressions-Exercise/10.3 RegularExpressions-Exercise.iml" filepath="$PROJECT_DIR$/10.3 RegularExpressions-Exercise/10.3 RegularExpressions-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.4 RegularExpressions-MoreExercise/10.4 RegularExpressions-MoreExercise.iml" filepath="$PROJECT_DIR$/10.4 RegularExpressions-MoreExercise/10.4 RegularExpressions-MoreExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.2 Exam-Preparation/11.2 Exam-Preparation.iml" filepath="$PROJECT_DIR$/11.2 Exam-Preparation/11.2 Exam-Preparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.3 Exam/11.3 Exam.iml" filepath="$PROJECT_DIR$/11.3 Exam/11.3 Exam.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SoftUniFundamentalsJava.iml" filepath="$PROJECT_DIR$/.idea/SoftUniFundamentalsJava.iml" />
     </modules>
   </component>
