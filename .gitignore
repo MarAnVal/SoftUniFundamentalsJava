@@ -2,6 +2,9 @@ ctarget/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+/target/
+/.idea/
+/out/
 
 ### STS ###
 .apt_generated
@@ -30,6 +33,3 @@ build/
 
 ### VS Code ###
 .vscode/
-/target/
-/aquagateclient/target/
-/aquagateclient/HELP.md
